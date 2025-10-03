@@ -14,7 +14,7 @@ const CTA = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm border border-white/30 mb-6">
             <Smartphone className="w-4 h-4 text-white" />
-            <span className="text-sm font-medium text-white">Our App</span>
+            <span className="text-sm font-medium text-white">Download Our App</span>
           </div>
           
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
